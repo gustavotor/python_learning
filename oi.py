@@ -1,1 +1,0 @@
-print("Sinfo viado")
